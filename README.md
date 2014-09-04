@@ -1,5 +1,5 @@
 hello-world
 ===========
 
-Tutorial map
-Following everything from https://guides.github.com/activities/hello-world/
+I'm Rowan-Paul from gamIE productions, i'm making right now an app
+
